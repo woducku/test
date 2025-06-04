@@ -1,0 +1,33 @@
+{
+  "title": "Rooster Fighter",
+  "description": "The neighborhood cock of the walk is more than just an ordinary rooster—he's humanity's greatest defender! His opponents may be ten stories tall, but nothing is bigger than his stout heart and his fearsome battle cry—cock-a-doodle-doo!",
+  "artist": "Shuu Sakuratani",
+  "author": "Shuu Sakuratani",
+  "cover": "https://mangadex.org/covers/c875bebb-8d03-4c8e-89dd-a3235f28df62/d99b4a4d-d410-4c37-b516-fbb6c47df97b.jpg",
+  "chapters": {
+    "001": {
+      "title": "",
+      "volume": "01",
+      "last_updated": "1735689600",
+      "groups": {
+        "VIZ": "/proxy/api/catbox/chapter/cva9t9"
+      }
+    },
+    "002": {
+      "title": "",
+      "volume": "01",
+      "last_updated": "1735689602",
+      "groups": {
+        "VIZ": "/proxy/api/catbox/chapter/rr4wfs"
+      }
+    },
+    "003": {
+      "title": "",
+      "volume": "01",
+      "last_updated": "1735689605",
+      "groups": {
+        "VIZ": "/proxy/api/catbox/chapter/1yhtwi"
+      }
+    }
+  }
+}
