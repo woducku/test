@@ -1,0 +1,25 @@
+{
+  "title": "Rooster",
+  "description": "The neighborhood cock of the walk is more than just an ordinary rooster—he’s humanity’s greatest defender! His opponents may be ten stories tall, but nothing is bigger than his stout heart and his fearsome battle cry—cock-a-doodle-doo!",
+  "artist": "Shuu Sakuratani",
+  "author": "Shuu Sakuratani",
+  "cover": "https://mangadex.org/covers/c875bebb-8d03-4c8e-89dd-a3235f28df62/d99b4a4d-d410-4c37-b516-fbb6c47df97b.jpg",
+  "chapters": {
+    "001": {
+      "title": "The Bird who Fights Demons",
+      "last_updated": "1749099282",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgchest/chapter/9p4nje9awyn"
+      },
+      "volume": "01"
+    },
+    "003": {
+      "title": "The Homesick Bird",
+      "last_updated": "1749099384",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgchest/chapter/ljyqr9lbe42"
+      },
+      "volume": "01"
+    }
+  }
+}
